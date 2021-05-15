@@ -18,7 +18,7 @@ E:\projects>mypython\Scripts\activate
 (mypython) E:\projects\django-admin --version
 3.2.2
 
-# creating a project
+# Creating a project
 
 (mypython) E:\projects\django-admin startproject PROJECTNAME [mysite]
 
